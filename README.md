@@ -1,5 +1,5 @@
 # sa-melee-skillkeeper
-Parsing skillkeeper file, and doing some basic stuff to it
+Parsing skillkeeper file, making some numbers and graphs, and calculating trueskill score
 
 link to SkillKeeper:
 
